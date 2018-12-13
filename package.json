@@ -1,0 +1,38 @@
+{
+  "license": "MIT",
+  "main": "index.js",
+  "name": "solhint-config-align-base",
+  "version": "0.1.0",
+  "description": "Solhint's align base JS config, following our styleguide",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariano-aguero/solhint-config-align-base.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mariano-aguero/solhint-config-align-base/issues"
+  },
+  "contributors": [
+    {
+      "name": "Mariano Aguero",
+      "email": "mariano.aguero@gmail.com"
+    }
+  ],
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-prettier": "^2.10.0",
+    "eslint-plugin-prettier": "^3.0.0",
+    "prettier": "^1.9.2"
+  },
+  "engines": {
+    "node": ">= 4"
+  },
+  "homepage": "https://github.com/mariano-aguero/solhint-config-align-base",
+  "keywords": [
+    "solhint",
+    "solhintconfig",
+    "config",
+    "javascript",
+    "styleguide",
+    "solidity"
+  ]
+}
