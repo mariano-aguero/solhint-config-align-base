@@ -1,6 +1,6 @@
 # solhint-config-align-base
 
-[![npm version](https://badge.fury.io/js/solhint-config-base.svg)](http://badge.fury.io/js/solhint-config-base)
+[![npm version](https://badge.fury.io/js/solhint-config-align-base.svg)](http://badge.fury.io/js/solhint-config-align-base)
 
 This package provides Solhint's align base JS .solhintrc as an extensible shared config.
 
